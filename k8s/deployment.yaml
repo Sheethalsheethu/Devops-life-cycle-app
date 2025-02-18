@@ -1,0 +1,37 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: devops-lifecycle-app
+spec:
+  replicas: 3  # Set the number of replicas (pods) to run
+  selector:
+    matchLabels:
+      app: devops-app
+  template:
+    metadata:
+      labels:
+        app: devops-app
+    spec:
+      containers:
+        - name: backend
+          image: your-backend-image:latest  # Replace with your actual backend image
+          ports:
+            - containerPort: 5000  # Port exposed by the backend container
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: devops-app-service
+spec:
+  selector:
+    app: devops-app
+  ports:
+    - name: http
+      protocol: TCP
+      port: 80
+      targetPort: 80
+    - name: backend
+      protocol: TCP
+      port: 5000
+      targetPort: 5000
+  type: NodePort  # Use LoadBalancer if deploying on AWS
