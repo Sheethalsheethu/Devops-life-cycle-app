@@ -38,6 +38,22 @@ The project utilizes the following tools:
 
 - **Container Orchestration:**
   - Kubernetes (Minikube for local development, AWS EKS for production deployment)
+ 
+## Pictures
+
+![Screenshot 2025-02-18 211553](https://github.com/user-attachments/assets/fd2cbc7a-060e-4ada-8602-580d38a87dd7)
+
+
+![Screenshot 2025-02-18 211606](https://github.com/user-attachments/assets/1cd14582-fc31-4cef-84d0-e7805073cd53)
+
+
+![Screenshot 2025-02-18 202325](https://github.com/user-attachments/assets/2a0cae39-cea5-4fe0-9a69-5fb2691fbd32)
+
+
+
+![Screenshot 2025-02-18 202336](https://github.com/user-attachments/assets/e1858361-4b5f-4a8e-a2ec-ceee026c255e)
+
+
 
 ## How to Run the Project Locally
 
