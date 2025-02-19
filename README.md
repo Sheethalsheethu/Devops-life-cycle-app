@@ -48,6 +48,9 @@ The project utilizes the following tools:
 ![Screenshot 2025-02-18 211606](https://github.com/user-attachments/assets/1cd14582-fc31-4cef-84d0-e7805073cd53)
 
 
+**Sentry first errors**
+
+
 
 ![Screenshot 2025-02-18 202325](https://github.com/user-attachments/assets/8ef96642-5ec5-43c7-8fbe-4d407e487573)
 
@@ -56,6 +59,7 @@ The project utilizes the following tools:
 ![Screenshot 2025-02-18 202336](https://github.com/user-attachments/assets/e1858361-4b5f-4a8e-a2ec-ceee026c255e)
 
 
+**Deploying To Docker**
 
 
 ![Screenshot 2025-02-18 233920](https://github.com/user-attachments/assets/55e8e89e-68ad-401c-8353-4bf39ac758d1)
