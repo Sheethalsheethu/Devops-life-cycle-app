@@ -62,6 +62,10 @@ The project utilizes the following tools:
 
 
 
+![Screenshot 2025-02-18 233935](https://github.com/user-attachments/assets/c5571f71-a845-4cd8-94a6-7a737c4c236c)
+
+
+
 
 
 
