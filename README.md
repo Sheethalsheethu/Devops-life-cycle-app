@@ -43,7 +43,12 @@ The project utilizes the following tools:
  
 ## Pictures
 
-![Screenshot 2025-02-18 211553](https://github.com/user-attachments/assets/fd2cbc7a-060e-4ada-8602-580d38a87dd7)
+![Screenshot 2025-02-27 170659](https://github.com/user-attachments/assets/f12ca340-e6fd-4d25-8d02-dd89170e0cef)
+
+
+
+![Screenshot 2025-02-27 170707](https://github.com/user-attachments/assets/b3063c84-c475-4609-b574-f1410ddaccde)
+
 
 
 
